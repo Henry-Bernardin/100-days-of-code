@@ -471,3 +471,10 @@ Day 57: March 25, 2019- Monday
 **Thoughts**
 
 **link to work** https://twitter.com/HenryBernardin/status/1110035948748718081
+
+Day 58: April 6, 2019- Saturday 
+**Today's Progress**: Refreshed on "Objects" using @freeCodeCamp & #ColtSteele course on @udemy. Brushed up on accessing Object properties w/ dot/bracket notation, variables, & Accessing nested arrays/objects.  Def have a better understanding of it now using those two resources.
+
+**Thoughts** Arrays, and Objects are a bit clearer to me now. With a few more practice I believe I can solve these complicated exercises on freecodecamp. 
+
+**link to work** https://twitter.com/HenryBernardin/status/1114716129069600768?s=20
