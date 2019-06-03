@@ -478,3 +478,24 @@ Day 58: April 6, 2019- Saturday
 **Thoughts** Arrays, and Objects are a bit clearer to me now. With a few more practice I believe I can solve these complicated exercises on freecodecamp. 
 
 **link to work** https://twitter.com/HenryBernardin/status/1114716129069600768?s=20
+
+Day 59: April 27, 2019- Saturday 
+**Today's Progress**: Using #ColtSteele course on @udemy learned what is the DOM (Document Object Manipulation). Which is the interface between the javascript and the HTML + CSS. Also began to learn the various selector methods.
+
+**Thoughts** Finally learned what the DOM is after seeing it referenced so often. Beginning  to learn and understand alot more when it comes to Javascript and all it's syntax. 
+
+**link to work** https://twitter.com/HenryBernardin/status/1122326301933756416?s=20
+
+Day 60: May 4, 2019- Saturday 
+**Today's Progress**: Using #ColtSteele course on 
+@udemy continued to learn various DOM Selectors. These included:
+document.getElementById()
+document.getElementsByClassName()
+document.getElementsByTagName()
+document.querySelector()
+document.querySelectorAll()
+So far so good.
+
+**Thoughts** These DOM selectors were quite easy to understand. Ulitzing and implemeneting them within a project will really test how well I am understanding these concepts. 
+
+**link to work** https://twitter.com/HenryBernardin/status/1124878252617666566?s=20
